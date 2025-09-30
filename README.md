@@ -1,4 +1,4 @@
-# FastAPI LLM Chatbot Setup
+# FastAPI LLM Backend Template Setup
 
 ## Install uv Package Manager
 
